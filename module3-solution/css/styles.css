@@ -16,8 +16,9 @@ body {
     font-weight: bold;
 }
 
-#collapsable-nav {
+#nav-list {
     background-color: #391e98;
+    margin: 0 -15px;
 }
 
 #nav-list>li {
