@@ -1,0 +1,48 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#header-nav {
+    border-radius: 0;
+    border: 0;
+    background-color: #98174f;
+}
+
+.navbar-brand h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+#collapsable-nav {
+    background-color: #391e98;
+}
+
+#nav-list>li {
+    color: #fff293;
+    font-size: 1.15em;
+    font-weight: bold;
+    line-height: 2;
+}
+
+#page-heading {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.food-tile {
+    background-color: #e3cf0c;
+    padding: 15px;
+}
+
+.food-tile .title {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+#chicken {
+    height: 1000px;
+}
