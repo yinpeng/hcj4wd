@@ -21,7 +21,7 @@ body {
     margin: 0 -15px;
 }
 
-#nav-list>li {
+#nav-list>li>a {
     color: #fff293;
     font-size: 1.15em;
     font-weight: bold;
@@ -36,14 +36,10 @@ body {
 .food-tile {
     background-color: #e3cf0c;
     padding: 15px;
+    margin: 15px;
 }
 
 .food-tile .title {
     font-size: 1.2em;
     font-weight: bold;
-    text-align: center;
-}
-
-#chicken {
-    height: 1000px;
 }
